@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Data Visualizer Dashboard",
+  "description": "An interactive, multi-view data visualization dashboard supporting multiple preloaded datasets, custom CSV/JSON loading, rich dynamic filters, KPIs, various chart elements, and AI-powered dataset analysis using server-side Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
